@@ -1,3 +1,5 @@
+package footballplayer;
+
 public class FootballPlayer {
     int number;
     String name;

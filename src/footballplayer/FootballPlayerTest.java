@@ -1,4 +1,4 @@
-import java.sql.SQLOutput;
+package footballplayer;
 
 public class FootballPlayerTest {
     public static void main(String[] args) {
